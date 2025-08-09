@@ -1,5 +1,7 @@
 # API_Fuzzing_Lists
 
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/078d09c8-a25a-4f82-ab8a-df74f691eb1d" />
+
 Esta lista de diccionarios pertenecen a https://www.sqrsec.com/api-fuzzing-lists a la fecha 9/08/2025 recominedo visitar su sitio ya que tienen cosas interesantes.
 
 ## Diccionarios
