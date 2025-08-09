@@ -60,6 +60,10 @@ Nombre común de los objetos encontrados en otras API
 
 <img width="402" height="365" alt="Image" src="https://github.com/user-attachments/assets/63e488a6-c13a-4bb5-ba1f-6b7463b8baa8" />
 
+## descubrimiento de puntos finales
+
+https://k1ngdamien.com/pentesting-apis-part1
+
 ## Buscar puntos finales con FFUF
 
 <img width="1139" height="368" alt="Image" src="https://github.com/user-attachments/assets/46b94396-63b3-46a8-a0da-13a552aee786" />
