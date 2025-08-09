@@ -60,5 +60,14 @@ Nombre común de los objetos encontrados en otras API
 
 <img width="402" height="365" alt="Image" src="https://github.com/user-attachments/assets/63e488a6-c13a-4bb5-ba1f-6b7463b8baa8" />
 
+## Buscar puntos finales con FFUF
 
+<img width="1139" height="368" alt="Image" src="https://github.com/user-attachments/assets/46b94396-63b3-46a8-a0da-13a552aee786" />
 
+## KiteRunner
+
+<img width="892" height="289" alt="Image" src="https://github.com/user-attachments/assets/23bd7815-adc8-45b8-b35d-78adc5cd74c2" />
+
+## OWASP Amass
+
+<img width="906" height="560" alt="Image" src="https://github.com/user-attachments/assets/aa9f14b3-47c3-4f4d-b221-dba7dabb55c1" />
